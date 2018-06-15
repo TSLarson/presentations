@@ -2,7 +2,7 @@
 
 #HSLIDE
 
-###Why we chose to separate Kafka into a microservice
+### Why we chose to separate Kafka into a microservice
 
  * Opportunity to separate out logic
  * Current app is overloaded
@@ -11,7 +11,7 @@
 
 #HSLIDE
 
-###What hurt us
+### What hurt us
     
  * Unfamiliarity with concourse
  * Not using an in memory database
@@ -23,5 +23,5 @@
 
 #HSLIDE
 
-###What hurt and helped us
+### What hurt and helped us
     
