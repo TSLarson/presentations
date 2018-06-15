@@ -26,7 +26,7 @@
 
 #HSLIDE
 
-# Gradle Gotcha's
+### Gradle Gotcha's
 
  * Gradle contains a highly sophisticated dependency caching mechanism, which seeks to minimise the number of remote requests made in dependency resolution
  
