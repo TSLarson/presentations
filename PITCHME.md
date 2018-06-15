@@ -25,9 +25,16 @@
 
 #HSLIDE
 
-### What hurt and helped us
+### What helped us
+
+ * Group knowledge
+ * Working incrementally
+ * Rotating pairs
+ * PM support
 
 #HSLIDE
 
-### Production Velocity
+### Team Velocity
+
+ 
     
