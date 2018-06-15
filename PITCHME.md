@@ -15,7 +15,7 @@
 
 ### What hurt us
 
- * Creating a repository
+ * Creating a Github repo
  * Unfamiliarity with concourse
  * Not using an in memory database
  * Yaml merge conflicts
@@ -61,3 +61,9 @@
 #HSLIDE
 
 ### What we can do?
+
+#HSLIDE
+
+### What we can do?
+
+ * Out of the box Concourse configuration
