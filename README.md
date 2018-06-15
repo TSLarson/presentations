@@ -1,6 +1,6 @@
 Concourse
 
-
+#HSLIDE
 
 Why we chose to separate Kafka into a microservice
 
@@ -12,3 +12,4 @@ What hurt us
     
     * Unfamiliarity with concourse
     * Not using an in mem
+    * yaml merge conflicts
