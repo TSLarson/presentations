@@ -26,13 +26,14 @@
 
 #HSLIDE
 
-### What helped us
+# Gradle Gotcha's
 
- * Group knowledge
- * Working incrementally
- * Rotating pairs
- * Team commitment to best practices
- * PM support
+ * Gradle contains a highly sophisticated dependency caching mechanism, which seeks to minimise the number of remote requests made in dependency resolution
+![Gradle Build Script](gradleBuildScript.jpeg)
+![Gradle setting version](settingGradleVersion.jpeg)
+![Concourse run](runsh.jpeg)
+
+
 
 #HSLIDE
 
@@ -44,3 +45,16 @@
 
 ![dumpster fire](dumpsterfire.gif) 
     
+#HSLIDE
+
+### What helped us
+
+ * Group knowledge
+ * Working incrementally
+ * Rotating pairs
+ * Team commitment to best practices
+ * PM support
+
+#HSLIDE
+
+### What we can do?
