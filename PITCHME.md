@@ -1,4 +1,5 @@
-# Concourse
+# Concourse and Kafka 
+![concourse pipeline](concourse.png)
 
 #HSLIDE
 
@@ -8,6 +9,7 @@
  * Current app is overloaded
  * Difficult to view logs in existing app
  * Challenges of working with new tech
+ * Reusability
 
 #HSLIDE
 
@@ -24,4 +26,8 @@
 #HSLIDE
 
 ### What hurt and helped us
+
+#HSLIDE
+
+### Production Velocity
     
