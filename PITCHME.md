@@ -1,5 +1,4 @@
 ## Emotional Intelligence
-![concourse pipeline](concourse.png)
 
 #HSLIDE
 
@@ -16,7 +15,7 @@
 
 #HSLIDE
 
-![Goleman book](Goleman.jpeg)
+![Goleman book](Goleman.jpeg){:height="50%" width="50%"}
 
 #HSLIDE
 
