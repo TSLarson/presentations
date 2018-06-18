@@ -1,34 +1,26 @@
-## Concourse and Kafka 
+## Emotional Intelligence
 ![concourse pipeline](concourse.png)
 
 #HSLIDE
 
-### Why we chose to create a microservice
-
- * Opportunity to separate out logic
- * Current app is overloaded
- * Difficult to view logs in existing app
- * Challenges of working with new tech
- * Reusability
+### People with average IQs outperform those with the highest IQs 70% of the time
 
 #HSLIDE
 
-### What hurt us
+### Salovey and Mayer's Emotionally Intelligent People
 
- * Creating a Github repo
- * Unfamiliarity with concourse
- * Not using an in memory database
- * Yaml merge conflicts
-
-#HSLIDE
-
-![yaml example](yaml.jpeg)
+ * They were good at understanding their own emotions
+ * They were good at managing their emotions
+ * They were empathetic to the emotional drives of other people
+ * They were good at handling other people's emotions
 
 #HSLIDE
 
-### Gradle Gotcha's
+![Goleman book](Goleman.jpeg)
 
- * Gradle contains a highly sophisticated dependency caching mechanism, which seeks to minimise the number of remote requests made in dependency resolution
+#HSLIDE
+
+![Brain](Brain.jpeg)
  
 #HSLIDE 
  
