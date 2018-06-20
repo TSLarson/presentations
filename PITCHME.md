@@ -45,12 +45,11 @@
 
 #HSLIDE
 
-# Self Awareness
+## Self Awareness
 
-### Your ability to accurately perceive your own emotions in the moment and understand your tendencies across situations
+#### Your ability to accurately perceive your own emotions in the moment and understand your tendencies across situations
 
 #HSLIDE
-
 
 |                    |  What I see    |   What I do  |
 |---                 |             ---|           ---|
@@ -78,9 +77,9 @@
 #HSLIDE
 
 
-# Social Awareness
+## Social Awareness
 
-### Your ability to accurately pick up on emotions in other people and understand what is really going on with them
+#### Your ability to accurately pick up on emotions in other people and understand what is really going on with them
 
 
 #HSLIDE
@@ -94,6 +93,6 @@
 
 #HSLIDE
 
-# Relationship Management
+## Relationship Management
 
-### Your ability to use your awareness of your own emotions and those of others to manage interactions successfully
+#### Your ability to use your awareness of your own emotions and those of others to manage interactions successfully
