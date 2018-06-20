@@ -15,50 +15,30 @@
 
 #HSLIDE
 
-![Goleman book ](Goleman.png =250x)
-
-
-
-<img src="Goleman.png" alt="drawing" width="20px"/>
+![Goleman book ](Goleman.png =500x)
 
 #HSLIDE
 
-![Brain](brain.jpeg)
+![Brain](brain.png)
  
 #HSLIDE 
- 
-![Gradle Build Script](gradleBuildScript.jpeg)
-![Gradle setting version](settingGradleVersion.jpeg)
-![Concourse run](runsh.jpeg)
 
+### EQ Definition: The ability to identify and manage your own emotions and the emotions of others
+
+#HSLIDE
+
+### Why is it important?
+
+ * EQ is responsible for 58% of your job performance
+ * 90% of high performers have high EQ
+ * People with high EQ make $29,000 more annually than their low EQ counterparts 
+ * The link between EQ and earnings is so direct that every point increase (in all industries, at all levels, in every region of the world) **adds to $1,300 to an annual salary**
 
 
 #HSLIDE
 
-### Team Velocity
-
-#HSLIDE
-
-### Team Velocity
-
-![dumpster fire](dumpsterfire.gif) 
-    
-#HSLIDE
-
-### What helped us
-
- * Group knowledge
- * Working incrementally
- * Rotating pairs
- * Team commitment to best practices
- * PM support
-
-#HSLIDE
-
-### What we can do?
-
-#HSLIDE
-
-### What we can do?
-
- * Out of the box Concourse configuration
+|                    |  What I see    |   What I do  |
+|---                 |             ---|           ---|
+|Personal Competence |  Self Awareness *(understanding yourself)* | Self Management *(managing your behavior)*|
+                        
+|Social Awareness    |                |              |

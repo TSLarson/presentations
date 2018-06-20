@@ -3,8 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="94cc0d9b-134d-4dd9-ab2c-49b0fa1c3dff" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Goleman.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Goleman.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PITCHME.md" beforeDir="false" afterPath="$PROJECT_DIR$/PITCHME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brain.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/brain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concourse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dumpsterfire.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradleBuildScript.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runsh.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settingGradleVersion.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yaml.jpeg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/PITCHME.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="399">
-                <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+              <first_editor relative-caret-position="411">
+                <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -45,6 +51,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/PITCHME.md" />
       </list>
     </option>
@@ -58,9 +65,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="720" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -161,15 +168,15 @@
       <option name="presentableId" value="Default" />
       <updated>1529071924041</updated>
       <workItem from="1529071925661" duration="4112000" />
-      <workItem from="1529286943899" duration="1151000" />
+      <workItem from="1529286943899" duration="2213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5263000" />
+    <option name="totallyTimeSpent" value="6325000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -181,11 +188,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.37858033" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2117061" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -219,11 +226,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brain.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/PITCHME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="399">
-            <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <first_editor relative-caret-position="411">
+            <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
