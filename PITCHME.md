@@ -113,6 +113,22 @@
 
 #### Your ability to accurately pick up on emotions in other people and understand what is really going on with them
 
+#HSLIDE
+
+#### What you might have heard...
+
+ 1. Miss Vanjie needs to allow others to feel good about their ideas, even if she has a better plan.
+ 2. Miss Vanjie doesn't like to socialize. She is so focused on work and sometimes comes across as not interested in what's going on with her pair that day.
+ 3. When Miss Vangie has new ideas, she has a hard time explaining the so the team will accept them. 
+
+
+#HSLIDE
+
+#### Strategies to improve
+
+ 1. Watch body language
+ 2. See how long you can have a conversation without talking about yourself
+ 3. Ask for specific feedback
 
 #HSLIDE
 
@@ -127,3 +143,25 @@
 ## Relationship Management
 
 #### Your ability to use your awareness of your own emotions and those of others to manage interactions successfully
+
+#HSLIDE
+
+#### What you might have heard...
+
+ 1. When Miss Vanjie doesn't see eye to eye with someone, she makes it apparent that it's not worth developing the relationship.
+ 2. Miss Vanjie can get over-excited when meeting new people and it causes them to pull back from her. It makes it hard for them to connect with her.
+ 3. Miss Vanjie often minimizes her pair's point of view and often comes off as blunt, particularly with new people on the team. 
+
+#HSLIDE
+
+#### Strategies to improve
+
+ 1. Say "please", "thank you", and "I'm sorry"
+ 2. Build trust
+ 3. Have an "open door" policy (take feedback well!)
+
+#HSLIDE
+
+
+
+#HSLIDE
