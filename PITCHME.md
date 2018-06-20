@@ -15,7 +15,7 @@
 
 #HSLIDE
 
-<img src="Goleman.png" alt="drawing" width="500px"/>
+<img src="Goleman.png" alt="drawing" width="400px"/>
 
 #HSLIDE
 
@@ -61,9 +61,9 @@
 #HSLIDE
 
 
-# Self Management
+## Self Management
 
-### Your ability to use your awareness of your emotions to stay flexible and direct your behavior positively
+#### Your ability to use your awareness of your emotions to stay flexible and direct your behavior positively
 
 
 #HSLIDE
