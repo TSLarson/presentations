@@ -51,6 +51,23 @@
 
 #HSLIDE
 
+## What you might have heard...
+
+ 1. When things are going well for Miss Vanjie, she brings really strong skill to the team. However, when things don't go her way she is very difficult to communicate with. She needs to learn to recognize her triggers so she can respond more effectively.
+ 2. Miss Vanjie needs to become aware of how she is perceived. She can come across as very demanding.
+ 3. Miss Vangie is very passionate about what she does. When she gets excited, she talks over people and doesn't listen to others. 
+
+
+#HSLIDE
+
+## Strategies to improve
+
+ 1. Don't treat feelings as good or bad
+ 2. Know who and what pushes your buttons
+ 3. Feel your emotions physically
+ 
+#HSLIDE
+
 |                    |  What I see    |   What I do  |
 |---                 |             ---|           ---|
 |Personal Competence |  **Self Awareness** *(understanding yourself)* | **Self Management** *(managing your behavior)*|
@@ -64,6 +81,22 @@
 
 #### Your ability to use your awareness of your emotions to stay flexible and direct your behavior positively
 
+#HSLIDE
+
+## What you might have heard...
+
+ 1. In stressful situations, Miss Vanjie responds too quickly, sharply, or disjointedly.
+ 2. Miss Vanjie needs to be so honest. If certain things upset her, she needs to learn to keep them to herself.
+ 3. Miss Vangie needs to be less reactive. In times of crisis, she shouldn't reveal to everyone how stressed she is. 
+
+
+#HSLIDE
+
+## Strategies to improve
+
+ 1. Create goals and make them public
+ 2. Breathe, count to ten, count to whatever, or just sleep on it
+ 3. Think of things for which you are grateful
 
 #HSLIDE
 
