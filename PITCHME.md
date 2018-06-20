@@ -15,7 +15,7 @@
 
 #HSLIDE
 
-![Goleman book ](Goleman.png =500x)
+<img src="Goleman.png" alt="drawing" width="500px"/>
 
 #HSLIDE
 
