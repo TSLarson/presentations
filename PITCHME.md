@@ -95,7 +95,7 @@
 ## Strategies to improve
 
  1. Create goals and make them public
- 2. Breathe, count to ten, count to whatever, or just sleep on it
+ 2. Breathe, count to ten, count to whatever, or better yet....just sleep on it
  3. Think of things for which you are grateful
 
 #HSLIDE
