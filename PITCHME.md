@@ -23,6 +23,14 @@
  
 #HSLIDE 
 
+![capilano](capilano.jpg)
+
+#HSLIDE 
+
+![small-bridge](bridge-small.jpeg)
+
+#HSLIDE 
+
 ### EQ Definition: The ability to identify and manage your own emotions and the emotions of others
 
 #HSLIDE
