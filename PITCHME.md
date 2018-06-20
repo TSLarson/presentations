@@ -51,7 +51,7 @@
 
 #HSLIDE
 
-## What you might have heard...
+#### What you might have heard...
 
  1. When things are going well for Miss Vanjie, she brings really strong skill to the team. However, when things don't go her way she is very difficult to communicate with. She needs to learn to recognize her triggers so she can respond more effectively.
  2. Miss Vanjie needs to become aware of how she is perceived. She can come across as very demanding.
@@ -60,7 +60,7 @@
 
 #HSLIDE
 
-## Strategies to improve
+#### Strategies to improve
 
  1. Don't treat feelings as good or bad
  2. Know who and what pushes your buttons
@@ -83,7 +83,7 @@
 
 #HSLIDE
 
-## What you might have heard...
+#### What you might have heard...
 
  1. In stressful situations, Miss Vanjie responds too quickly, sharply, or disjointedly.
  2. Miss Vanjie needs to be so honest. If certain things upset her, she needs to learn to keep them to herself.
@@ -92,7 +92,7 @@
 
 #HSLIDE
 
-## Strategies to improve
+#### Strategies to improve
 
  1. Create goals and make them public
  2. Breathe, count to ten, count to whatever, or better yet....just sleep on it
