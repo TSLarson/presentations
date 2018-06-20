@@ -15,11 +15,15 @@
 
 #HSLIDE
 
-![Goleman book](Goleman.jpeg){:height="50%" width="50%"}
+![Goleman book ](Goleman.png =250x)
+
+
+
+<img src="Goleman.png" alt="drawing" width="20px"/>
 
 #HSLIDE
 
-![Brain](Brain.jpeg)
+![Brain](brain.jpeg)
  
 #HSLIDE 
  
