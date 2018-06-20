@@ -38,7 +38,7 @@
 #HSLIDE
 
 |                    |  What I see    |   What I do  |
-|---                 |             ---|           ---|
+|---                 |             :---: |           :---:|
 |Personal Competence |  **Self Awareness** *(understanding yourself)* | **Self Management** *(managing your behavior)*|
 |Social Awareness    |  **Social Awareness** *(understanding other people)* | **Relationship Management** *(managing intercommunications)*|
 
@@ -69,7 +69,7 @@
 #HSLIDE
 
 |                    |  What I see    |   What I do  |
-|---                 |             ---|           ---|
+|---                 |             :---: |           :---:|
 |Personal Competence |  **Self Awareness** *(understanding yourself)* | **Self Management** *(managing your behavior)*|
 |Social Awareness    |  **Social Awareness** *(understanding other people)* | **Relationship Management** *(managing intercommunications)*|
 
@@ -117,7 +117,7 @@
 #HSLIDE
 
 |                    |  What I see    |   What I do  |
-|---                 |             ---|           ---|
+|---                 |             :---: |           :---:|
 |Personal Competence |  **Self Awareness** *(understanding yourself)* | **Self Management** *(managing your behavior)*|
 |Social Awareness    |  **Social Awareness** *(understanding other people)* | **Relationship Management** *(managing intercommunications)*|
 
