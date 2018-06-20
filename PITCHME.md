@@ -39,6 +39,61 @@
 
 |                    |  What I see    |   What I do  |
 |---                 |             ---|           ---|
-|Personal Competence |  Self Awareness *(understanding yourself)* | Self Management *(managing your behavior)*|
-                        
-|Social Awareness    |                |              |
+|Personal Competence |  **Self Awareness** *(understanding yourself)* | **Self Management** *(managing your behavior)*|
+|Social Awareness    |  **Social Awareness** *(understanding other people)* | **Relationship Management** *(managing intercommunications)*|
+
+
+#HSLIDE
+
+# Self Awareness
+
+### Your ability to accurately perceive your own emotions in the moment and understand your tendencies across situations
+
+#HSLIDE
+
+
+|                    |  What I see    |   What I do  |
+|---                 |             ---|           ---|
+|Personal Competence |  **Self Awareness** *(understanding yourself)* | **Self Management** *(managing your behavior)*|
+|Social Awareness    |  **Social Awareness** *(understanding other people)* | **Relationship Management** *(managing intercommunications)*|
+
+
+#HSLIDE
+
+
+# Self Management
+
+### Your ability to use your awareness of your emotions to stay flexible and direct your behavior positively
+
+
+#HSLIDE
+
+
+|                    |  What I see    |   What I do  |
+|---                 |             ---|           ---|
+|Personal Competence |  **Self Awareness** *(understanding yourself)* | **Self Management** *(managing your behavior)*|
+|Social Awareness    |  **Social Awareness** *(understanding other people)* | **Relationship Management** *(managing intercommunications)*|
+
+
+#HSLIDE
+
+
+# Social Awareness
+
+### Your ability to accurately pick up on emotions in other people and understand what is really going on with them
+
+
+#HSLIDE
+
+
+|                    |  What I see    |   What I do  |
+|---                 |             ---|           ---|
+|Personal Competence |  **Self Awareness** *(understanding yourself)* | **Self Management** *(managing your behavior)*|
+|Social Awareness    |  **Social Awareness** *(understanding other people)* | **Relationship Management** *(managing intercommunications)*|
+
+
+#HSLIDE
+
+# Relationship Management
+
+### Your ability to use your awareness of your own emotions and those of others to manage interactions successfully
