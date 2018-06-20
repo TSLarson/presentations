@@ -67,7 +67,6 @@
 
 #HSLIDE
 
-
 |                    |  What I see    |   What I do  |
 |---                 |             ---|           ---|
 |Personal Competence |  **Self Awareness** *(understanding yourself)* | **Self Management** *(managing your behavior)*|
@@ -83,7 +82,6 @@
 
 
 #HSLIDE
-
 
 |                    |  What I see    |   What I do  |
 |---                 |             ---|           ---|
