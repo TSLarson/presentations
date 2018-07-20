@@ -4,22 +4,19 @@
 #HSLIDE
 
 ### How it started 
-900 active restrictions stored in PRTT
-we had 70 captured..
-found out from smart um team in mid/end May
-
+ * 900 active restrictions stored in PRTT
+ * Smart UM team mid/end May
 
 #HSLIDE
 
 ### What does that mean... 
- * We are the source of member contact information 
-
+  We are the source of member contact information 
 
 #HSLIDE
 
 ### PRTT...the source of hipaa restrictions
  
- * Uploaded by MPIH on nightly basis
+ * Processed by MPIH on nightly basis
 
  * 4 different memo types
     1. Approved original request
@@ -29,7 +26,6 @@ found out from smart um team in mid/end May
 
 
 #HSLIDE
-
 ### Privacy Rights Tracking Tool
 
 
@@ -37,7 +33,6 @@ found out from smart um team in mid/end May
 ### What were we doing wrong?
  * GROUP ID
  * Not processing the termination date correctly 
-
 
 #HSLIDE
 ### How did we fix it
@@ -53,6 +48,9 @@ found out from smart um team in mid/end May
  * Open communication from devs to PM to stakeholders
  * Encapsulating problem classes
  * Emphasizing refactoring
+
+#HSLIDE
+### Conclusion
  
  
 
