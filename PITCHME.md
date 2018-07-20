@@ -14,10 +14,10 @@
 
 #HSLIDE
 
-### PRTT...the source of hipaa restrictions
+### Source of hipaa restrictions
  
+ * PRTT
  * Processed by MPIH on nightly basis
-
  * 4 different memo types
     1. Approved original request
     2. Group id change request
