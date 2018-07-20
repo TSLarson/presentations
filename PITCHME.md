@@ -1,69 +1,60 @@
-## Concourse and Kafka 
-![concourse pipeline](concourse.png)
+## Hipaa Restrictions
+
 
 #HSLIDE
 
-### Why we chose to create a microservice
+### How it started 
+900 active restrictions stored in PRTT
+we had 70 captured..
+found out from smart um team in mid/end May
 
- * Opportunity to separate out logic
- * Current app is overloaded
- * Difficult to view logs in existing app
- * Challenges of working with new tech
- * Reusability
 
 #HSLIDE
 
-### What hurt us
+### What does that mean... 
+ * We are the source of member contact information 
 
- * Creating a Github repo
- * Unfamiliarity with concourse
- * Not using an in memory database
- * Yaml merge conflicts
 
 #HSLIDE
 
-![yaml example](yaml.jpeg)
-
-#HSLIDE
-
-### Gradle Gotcha's
-
- * Gradle contains a highly sophisticated dependency caching mechanism, which seeks to minimise the number of remote requests made in dependency resolution
+### PRTT...the source of hipaa restrictions
  
-#HSLIDE 
+ * Uploaded by MPIH on nightly basis
+
+ * 4 different memo types
+    1. Approved original request
+    2. Group id change request
+    3. Address change request
+    4. Termination request
+
+
+#HSLIDE
+
+### Privacy Rights Tracking Tool
+
+
+#HSLIDE
+### What were we doing wrong?
+ * GROUP ID
+ * Not processing the termination date correctly 
+
+
+#HSLIDE
+### How did we fix it
+ * Timeline - over 2.5 months to investigate and fix
+ * 20% of tests were broken
+ * Over 150 files affected
+ * Gateway architecture
  
-![Gradle Build Script](gradleBuildScript.jpeg)
-![Gradle setting version](settingGradleVersion.jpeg)
-![Concourse run](runsh.jpeg)
-
-
-
 #HSLIDE
+### Takeaways
+ * Emphasis on understanding Business Process
+ * Using tech statistics in updates to stakeholders
+ * Open communication from devs to PM to stakeholders
+ * Encapsulating problem classes
+ * Emphasizing refactoring
+ 
+ 
 
-### Team Velocity
 
-#HSLIDE
 
-### Team Velocity
-
-![dumpster fire](dumpsterfire.gif) 
-    
-#HSLIDE
-
-### What helped us
-
- * Group knowledge
- * Working incrementally
- * Rotating pairs
- * Team commitment to best practices
- * PM support
-
-#HSLIDE
-
-### What we can do?
-
-#HSLIDE
-
-### What we can do?
-
- * Out of the box Concourse configuration
