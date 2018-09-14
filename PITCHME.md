@@ -1,4 +1,4 @@
-##MPIH
+## MPIH
 
 Tiffany Larson - Butterfly
 Scott Wendt - Butterfly
