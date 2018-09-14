@@ -1,3 +1,16 @@
+##MPIH
+
+Tiffany Larson - Butterfly
+Scott Wendt - Butterfly
+Kyle Norris - Crocodile
+James Artz - Bear
+Alissa Calomino - Tiger
+Anbu Thamizh Thendral - Turtle
+Vivek Iyer - Turtle
+
+
+#HSLIDE
+
 ## Siteminder
 
 #HSLIDE
@@ -53,12 +66,17 @@
 
 #HSLIDE
 
+![prod](prod-saml-2.png)
+
+#HSLIDE
+
 ![staging config](staging-config.jpg)
 
 #HSLIDE
 
 ![prod config](prod-config.jpg)
 
+#HSLIDE
 
 
 
