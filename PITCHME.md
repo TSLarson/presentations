@@ -43,6 +43,25 @@
 
 ### Issues we've had
 
+#HSLIDE
+
+![staging](Staging-saml.png)
+
+#HSLIDE
+
+![prod](prod-saml.png)
+
+#HSLIDE
+
+![staging config](staging-config.jpg)
+
+#HSLIDE
+
+![prod config](prod-config.jpg)
+
+
+
+
 
 
 
