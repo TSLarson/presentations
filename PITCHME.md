@@ -2,11 +2,12 @@
 
  * Tiffany Larson - Butterfly
  * Scott Wendt - Butterfly
- * Kyle Norris - Crocodile
+ * Portia Woodhouse - Bear
  * James Artz - Bear
- * Alissa Calomino - Tiger
  * Anbu Thamizh Thendral - Turtle
  * Vivek Iyer - Turtle
+ * Kyle Norris - Crocodile
+ * Alissa Calomino - Tiger
 
 
 #HSLIDE
