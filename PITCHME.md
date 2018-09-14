@@ -1,58 +1,48 @@
-## Hipaa Restrictions
-
-
-#HSLIDE
-
-### How it started 
- * 900 active restrictions stored in PRTT
- * Smart UM team mid/end May
+## Siteminder
 
 #HSLIDE
 
-### What does that mean... 
-  We are the source of member contact information 
+### What is it 
 
-#HSLIDE
-
-### Source of hipaa restrictions
- 
- * PRTT
- * Processed by MPIH on nightly basis
- * 4 different memo types
-    1. Approved original request
-    2. Group id change request
-    3. Address change request
-    4. Termination request
-
-
-#HSLIDE
-### Privacy Rights Tracking Tool
-
-
-#HSLIDE
-### What were we doing wrong?
- * GROUP ID
- * Not processing the termination date correctly 
-
-#HSLIDE
-### How did we fix it
- * Timeline - over 2.5 months to investigate and fix
- * 20% of tests were broken
- * Over 150 files affected
- * Gateway architecture
+ * SSO integration for internal and external
+ * I know who you say you are
+ * Redirecting    
  
 #HSLIDE
-### Takeaways
- * Emphasis on understanding Business Process
- * Using tech statistics in updates to stakeholders
- * Open communication from devs to PM to stakeholders
- * Encapsulating problem classes
- * Emphasizing refactoring
+
+### How it's set up
+
+ * Partnership v application
 
 #HSLIDE
-### Conclusion
- 
- 
+
+### Application
+
+ * Internal (not ldap enabled)
+ * Two apps don't have the same concept of a user
+
+#HSLIDE
+
+### Partnership
+
+ * External
+ * I know the person but you don't
+ * Github authentication, facebook authentication, etc
+
+#HSLIDE
+
+### How does MPIH use it
+
+ 1. Bam sends get request with cookie to Siteminder with SPID
+ 2. Siteminder validates cookie then encrypts and encodes it 
+ 3. Javascript redirect with self submitting form with SAMLResponse
+ 4. MPIH decodes SAMLResponse 
+ 5. MPIH decrypts SAMLResponse
+
+#HSLIDE
+
+### Issues we've had
+
 
 
 
