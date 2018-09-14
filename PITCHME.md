@@ -1,12 +1,12 @@
 ## MPIH
 
-Tiffany Larson - Butterfly
-Scott Wendt - Butterfly
-Kyle Norris - Crocodile
-James Artz - Bear
-Alissa Calomino - Tiger
-Anbu Thamizh Thendral - Turtle
-Vivek Iyer - Turtle
+ * Tiffany Larson - Butterfly
+ * Scott Wendt - Butterfly
+ * Kyle Norris - Crocodile
+ * James Artz - Bear
+ * Alissa Calomino - Tiger
+ * Anbu Thamizh Thendral - Turtle
+ * Vivek Iyer - Turtle
 
 
 #HSLIDE
