@@ -17,8 +17,8 @@
 ## Issues we were seeing:
  1. Login page when running locally 
  2. Batch processing had strange errors ("no node")
-        - SftpOutboundGateway: provides a limited set of commands that let you interact with a remote SFTP server (e.g. ls, get, put)
-        - No indication it was related to Spring Security
+    - SftpOutboundGateway: provides a limited set of commands that let you interact with a remote SFTP server (e.g. ls, get, put)
+    - No indication it was related to Spring Security
 
 #HSLIDE
 
