@@ -1,69 +1,36 @@
-## Concourse and Kafka 
-![concourse pipeline](concourse.png)
+## MPIH and UPP and TIM soon to be MCP/MI
+
+ * Tiffany Larson: 🦋
+ * Scott Wendt: 🦋
+ * Nick Dorans: 🦋
+ * Portia Woodhouse: 🐻
+ * James Artz: 🐻
+ * Vivek Iyer: 🐢
+ * Alissa Calomino: 🐅
 
 #HSLIDE
 
-### Why we chose to create a microservice
-
- * Opportunity to separate out logic
- * Current app is overloaded
- * Difficult to view logs in existing app
- * Challenges of working with new tech
- * Reusability
+## Spring Upgrade: Removing Spring Security 
 
 #HSLIDE
 
-### What hurt us
-
- * Creating a Github repo
- * Unfamiliarity with concourse
- * Not using an in memory database
- * Yaml merge conflicts
-
-#HSLIDE
-
-![yaml example](yaml.jpeg)
+## Issues we were seeing:
+ 1. Login page when running locally 
+ 2. Batch processing had strange errors ("no node")
+        - SftpOutboundGateway: provides a limited set of commands that let you interact with a remote SFTP server (e.g. ls, get, put)
+        - No indication it was related to Spring Security
 
 #HSLIDE
 
-### Gradle Gotcha's
+![Web Security Configurer Adapter](websecurityconfigadapter.png)
 
- * Gradle contains a highly sophisticated dependency caching mechanism, which seeks to minimise the number of remote requests made in dependency resolution
+#HSLIDE
+
+## Why even use Spring Security?
+
+ - Purpose is to provide authentication and authorization
+ - Lots of changes in Spring Security for 2.0 upgrade
+ - We were only using it to parse a JWT
+ - We were overriding all Spring Security defaults for our own custom authentication flow
  
-#HSLIDE 
- 
-![Gradle Build Script](gradleBuildScript.jpeg)
-![Gradle setting version](settingGradleVersion.jpeg)
-![Concourse run](runsh.jpeg)
-
-
-
 #HSLIDE
-
-### Team Velocity
-
-#HSLIDE
-
-### Team Velocity
-
-![dumpster fire](dumpsterfire.gif) 
-    
-#HSLIDE
-
-### What helped us
-
- * Group knowledge
- * Working incrementally
- * Rotating pairs
- * Team commitment to best practices
- * PM support
-
-#HSLIDE
-
-### What we can do?
-
-#HSLIDE
-
-### What we can do?
-
- * Out of the box Concourse configuration
