@@ -30,9 +30,9 @@
 ## Why even use Spring Security?
 
  - Purpose is to provide authentication and authorization
- - Lots of changes in Spring Security for 2.0 upgrade
- - We were only using it to parse a JWT
  - We were overriding all Spring Security defaults for our own custom authentication flow
+ - We were only using it to parse a JWT
+ - Lots of changes in Spring Security for 2.0 upgrade
  
 #HSLIDE
 
