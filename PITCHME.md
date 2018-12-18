@@ -36,15 +36,15 @@
  
 #HSLIDE
 
-## Existing Authentication Flow
+### Existing Authentication Flow
 
 #HSLIDE
 
-## New Authentication Flow: AuthenticationConfiguration
+#### New Authentication Flow: Authentication Configuration
 
 #HSLIDE
 
-## New Authentication Flow: JwtConfiguration
+##### New Authentication Flow: JwtConfiguration
  
 
 
