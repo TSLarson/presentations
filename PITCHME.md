@@ -40,11 +40,13 @@
 
 #HSLIDE
 
-### New Authentication Flow: Authentication Configuration
+### New Authentication Flow: 
+### Authentication Configuration
 
 #HSLIDE
 
-### New Authentication Flow: `JwtConfiguration`
+### New Authentication Flow: 
+### Jwt Configuration
  
 
 

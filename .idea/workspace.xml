@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="94cc0d9b-134d-4dd9-ab2c-49b0fa1c3dff" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PITCHME.md" afterPath="$PROJECT_DIR$/PITCHME.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +19,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="475">
-                <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+                <caret line="46" column="47" lean-forward="false" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -205,12 +206,12 @@
       <updated>1529071924041</updated>
       <workItem from="1529071925661" duration="4359000" />
       <workItem from="1529078017774" duration="1727000" />
-      <workItem from="1545154118802" duration="4758000" />
+      <workItem from="1545154118802" duration="4816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10844000" />
+    <option name="totallyTimeSpent" value="10902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
@@ -283,7 +284,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="475">
-            <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+            <caret line="46" column="47" lean-forward="false" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
             <folding />
           </first_editor>
           <second_editor />
