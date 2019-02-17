@@ -1,69 +1,57 @@
-## Concourse and Kafka 
-![concourse pipeline](concourse.png)
+## Error Handling
 
 #HSLIDE
 
-### Why we chose to create a microservice
-
- * Opportunity to separate out logic
- * Current app is overloaded
- * Difficult to view logs in existing app
- * Challenges of working with new tech
- * Reusability
+Overview of our presentation structure
 
 #HSLIDE
 
-### What hurt us
+### What is Error Handling?
 
- * Creating a Github repo
- * Unfamiliarity with concourse
- * Not using an in memory database
- * Yaml merge conflicts
-
-#HSLIDE
-
-![yaml example](yaml.jpeg)
-
-#HSLIDE
-
-### Gradle Gotcha's
-
- * Gradle contains a highly sophisticated dependency caching mechanism, which seeks to minimise the number of remote requests made in dependency resolution
- 
-#HSLIDE 
- 
-![Gradle Build Script](gradleBuildScript.jpeg)
-![Gradle setting version](settingGradleVersion.jpeg)
-![Concourse run](runsh.jpeg)
-
-
+ * The anticipation, detection, and resolution of errors in an application 
+ * Helps in maintaining the normal flow of the app
+ * Throwable
+    - the superclass of all errors and exceptions in the Java language
+    - A throwable contains a snapshot of the execution stack of its thread at the time it was created
+    - It can also contain a message string that gives more information about the error
+    - The recording of this causal information is referred to as the chained exception facility, as the cause can, itself, have a cause, and so on, leading to a "chain" of exceptions, each caused by another
+ * Subclasses: Error and Exception
+ * Checked and Unchecked  
 
 #HSLIDE
 
-### Team Velocity
+### public class Error extends Throwable() {}
 
+ * Serious problem has occurred that you should not try to catch
+ * Why? Recovery from this error is not possible
+    - StackOverflowError, OutOfMemoryError
+    - Errors are usually related to the environment the app is running in
+ * All unchecked types (not checked at compile time)   
+     
 #HSLIDE
+     
+### public class Exception extends Throwable() {} 
 
-### Team Velocity
-
-![dumpster fire](dumpsterfire.gif) 
+ * Checked and Unchecked types
+    - Unchecked -> RuntimeException (other examples extend Runtime -> ArithmeticException)
+    - Checked -> Everything else (SQLException, IOException)
     
-#HSLIDE
-
-### What helped us
-
- * Group knowledge
- * Working incrementally
- * Rotating pairs
- * Team commitment to best practices
- * PM support
+ * Program is responsible for creating these exceptions (vs. the environment)
 
 #HSLIDE
 
-### What we can do?
+### Why do we have Error Handling?
+ 
+ * As developers we are responsible for making sure our code does what it's supposed to. When things break, proper error handling can help us get back in the green as soon as possible.
+ * (Show example of an uncaught stacktrace and a handled exception) 
+ * something about try catch finally?
 
 #HSLIDE
 
-### What we can do?
+### When do we use Error Handling?
 
- * Out of the box Concourse configuration
+ * When we care about our future selves.
+ 
+ (When to not use Error Handling)
+ 
+
